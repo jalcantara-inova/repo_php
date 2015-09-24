@@ -1,2 +1,2 @@
 <?php 
-echo "Segundo";
+echo "Segundo!";
